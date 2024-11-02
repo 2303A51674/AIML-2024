@@ -5,4 +5,4 @@
 [Lab 05](https://github.com/2303A51674/AIML-2024/blob/main/Lab5.ipynb)<br>
 [Lab 06-AIML](https://github.com/2303A51674/AIML-2024/blob/main/Lab06_AIML.ipynb)<br>
 [Lab 06-KNN](https://github.com/2303A51674/AIML-2024/blob/main/Lab06.ipynb)<br>
-
+[Lab 07-SVM](https://github.com/2303A51674/AIML-2024/blob/main/Lab07.ipynb)<br>
